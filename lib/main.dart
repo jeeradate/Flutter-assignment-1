@@ -15,9 +15,9 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
   var _myMessage = [
-    'This is the first sentence',
-    'This is the second sentence',
-    'This is the third sentence'
+    '1 This is the first sentence',
+    '2 This is the second sentence',
+    '3 This is the third sentence'
   ];
   var _messageIndex = 0;
 
